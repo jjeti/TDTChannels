@@ -17,3 +17,10 @@ A continuación se indica lo que deben cumplir los aportes hacia este repositori
 - No es necesaria la indicación explicita del nombre del canal en el logo.
 
 Gracias por colaborar!
+
+
+Por favor, añade este canal del pueblo de mis padres, es de Lucena (Cordoba)
+
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=570687
+http://78.136.66.6:1935/live/liveStream/playlist.m3u8?wowzasessionid=1594570174
