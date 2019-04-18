@@ -17,3 +17,11 @@ A continuación se indica lo que deben cumplir los aportes hacia este repositori
 - No es necesaria la indicación explicita del nombre del canal en el logo.
 
 Gracias por colaborar!
+
+
+Disculpa,
+
+Se me olvido añadir la fuente del canal de Lucena, es esta:
+
+http://www.videoluctv.net/videoluc-en-directo/
+
